@@ -9,8 +9,7 @@ const accounts = [
     type: "fiat",
     deposit: true,
     payout: true,
-    imgURL:
-      "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/NGN.svg",
+    imgURL: "https://www.shareicon.net/data/128x128/2015/10/31/664551_sign_512x512.png",
   },
   {
     id: "d92abd3e-933b-4f23-a3e8-fe641e9f1bec",
@@ -22,8 +21,7 @@ const accounts = [
     type: "digital",
     deposit: true,
     payout: true,
-    imgURL:
-      "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/ETH.svg",
+    imgURL: "https://www.shareicon.net/data/128x128/2015/10/31/117397_eth_512x512.png",
   },
   {
     id: "5ad2ee10-5ca6-4576-96fe-1ef642057681",
@@ -35,8 +33,7 @@ const accounts = [
     type: "digital",
     deposit: true,
     payout: true,
-    imgURL:
-      "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/BTC.svg",
+    imgURL: "https://www.shareicon.net/data/128x128/2015/10/31/117419_bitcoin_512x512.png",
   },
 ];
 
