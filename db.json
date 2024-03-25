@@ -10,7 +10,7 @@
       "type": "fiat",
       "deposit": true,
       "payout": true,
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/NGN.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2015/10/31/664551_sign_512x512.png"
     },
     {
       "id": "d92abd3e-933b-4f23-a3e8-fe641e9f1bec",
@@ -22,7 +22,7 @@
       "type": "digital",
       "deposit": true,
       "payout": true,
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/ETH.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117397_eth_512x512.png"
     },
     {
       "id": "5ad2ee10-5ca6-4576-96fe-1ef642057681",
@@ -34,7 +34,7 @@
       "type": "digital",
       "deposit": true,
       "payout": true,
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/BTC.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117419_bitcoin_512x512.png"
     }
   ],
   "wallets": [
@@ -42,43 +42,31 @@
       "currency": "XLM",
       "name": "Stellar",
       "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000381/alice_v3/XLM.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117498_stellar_512x512.png"
     },
     {
       "currency": "LTC",
       "name": "Litecoin",
       "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/LTC.svg"
-    },
-    {
-      "currency": "RMT",
-      "name": "SureRemit",
-      "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000379/alice_v3/RMT.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117441_litecoin_512x512.png"
     },
     {
       "currency": "USDT",
       "name": "Tether",
       "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1593000381/alice_v3/USDT.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117508_tether_512x512.png"
     },
     {
       "currency": "XRP",
       "name": "Ripple",
       "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1606747749/alice_v3/XRP.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117527_ripple_512x512.png"
     },
     {
       "currency": "DOGE",
       "name": "Dogecoin",
       "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1619043964/alice_v3/DOGE.svg"
-    },
-    {
-      "currency": "TRX",
-      "name": "TRON",
-      "type": "digital",
-      "imgURL": "https://res.cloudinary.com/dwoc5fknz/image/upload/v1600068604/alice_v3/TRX.svg"
+      "imgURL": "https://www.shareicon.net/data/128x128/2016/07/08/117402_doge_512x512.png"
     }
   ]
 }
