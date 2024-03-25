@@ -45,7 +45,7 @@ const AddWalletModal = ({ onHide, setAccList }: AddWalletProps): JSX.Element => 
             ...preState,
             isLoading: true
         }))
-        const result = await fetch("http://localhost:3090/wallets");
+        const result = await fetch("https://my-json-server.typicode.com/dqve/busha-frontend-test");
         await result.json()
             .then((wallets) => {
                 if (result.ok) {
