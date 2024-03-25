@@ -37,7 +37,7 @@ function App() {
         isLoading: true
       }))
 
-      const result = await fetch("http://localhost:3090/accounts");
+      const result = await fetch("https://my-json-server.typicode.com/dqve/busha-frontend-test/accounts");
       await result.json()
         .then((accounts) => {
           setState((preState) => ({
